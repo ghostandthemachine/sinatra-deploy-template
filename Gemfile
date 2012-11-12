@@ -8,11 +8,8 @@ gem "haml"
 gem 'thin'
 gem 'shotgun'
 gem 'dm-rspec'
-gem 'uuid'
 gem 'rvm-capistrano'
 gem 'passenger'
-
-gem 'opal'
 
 group :development do
   gem 'dm-sqlite-adapter'
